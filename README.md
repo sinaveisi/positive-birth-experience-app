@@ -23,6 +23,21 @@ The app translates the WHO's intrapartum care recommendations into two learning 
 - **Flashcard training** — WHO recommendations across labor & birth care, and the first, second, and third stages of labor, plus newborn and postnatal maternal care, delivered as spaced, recurring reminders until the learner confirms mastery.
 - **Scenario-based assessment** — seven case-based quiz scenarios (clinically reviewed by ten midwifery/reproductive health experts) where each answer is classified as *recommended*, *not recommended*, or *not feasible given context* — mirroring how the WHO guideline itself frames decisions. A minimum score gate gets learners to review and retry before advancing.
 
+
+---
+
+## 📸 Screenshots
+
+<p align="center">
+  <img src="screenshot/1.jpg" width="200" alt=""/>
+  <img src="screenshot/2.jpg" width="200" alt=""/>
+  <img src="screenshot/3.jpg" width="200" alt=""/>
+  <img src="screenshot/4.jpg" width="200" alt=""/>
+  <img src="screenshot/5.jpg" width="200" alt=""/>
+</p>
+
+---
+
 ## 🧪 The research behind it
 
 The app was piloted with 30 second- and third-year midwifery students at Tabriz University of Medical Sciences over a 30-day usage window, using a one-group pre/post design:
