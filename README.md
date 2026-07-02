@@ -72,4 +72,4 @@ This project's source is shared for educational and research purposes. The publi
 
 ## 👤 Author
 
-**Sina Veisi** — Health Informatics, Urmia University of Medical Sciences
+**Sina Veisi** — Medical Informatics, Urmia University of Medical Sciences
